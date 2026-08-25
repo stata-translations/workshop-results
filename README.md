@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22093627.svg)](https://doi.org/10.5281/zenodo.22093627)
 # Qualitative results of collaborative workshop on Stata translation held at UCL 10th July 2026
 
 ## Related Work
